@@ -44,14 +44,9 @@ The target variable is:
 ## Methodology
 
 * The project used the publicly available Boston housing dataset.
-* ... (describe your data pre-processing)
-* ... (explain your model selection process)
-* ... (mention hyperparameter tuning if applicable)
-
-## Models
-
-* Implemented and evaluated various models, including ...
-* The best performing model was ... (with results)
+* Used Standard Data preprocessing techniques, splitted data into train and test data with the split of 80-20%.
+* Used XGBRegressor due to its ensemble learning approach and its advanced optimization techniques like gradient boosting and regularization methods like LASSO and feature importance scoring.
+* Evaluated the model using metrics like R2 score and Mean absolute error.
 
 ## Evaluation Metrics
 
@@ -59,11 +54,7 @@ The target variable is:
 
 ## Visualization
 
-![Graph for Actual Vs Predicted House prices]([path/to/image.jpg](https://github.com/siddharth-karale/Images/blob/main/Boston%20House%20ActVsPred.png) "Actual Vs Predicted Prices")
+![Graph for Actual Vs Predicted House prices](https://github.com/siddharth-karale/Images/blob/main/Boston%20House%20ActVsPred.png "Actual Vs Predicted Prices")
 
-
-## Visualization
-
-* ... (include link to figures or visualizations)
 
 
