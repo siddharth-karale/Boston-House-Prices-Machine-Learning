@@ -59,6 +59,11 @@ The target variable is:
 
 ## Visualization
 
+![Graph for Actual Vs Predicted House prices]([path/to/image.jpg](https://github.com/siddharth-karale/Images/blob/main/Boston%20House%20ActVsPred.png) "Actual Vs Predicted Prices")
+
+
+## Visualization
+
 * ... (include link to figures or visualizations)
 
 
